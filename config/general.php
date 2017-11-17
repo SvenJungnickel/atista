@@ -32,6 +32,8 @@ return [
 
         // Dev Mode (see https://craftcms.com/support/dev-mode)
         'devMode' => true,
+
+        'rememberedUserSessionDuration' => 'P1Y',
     ],
 
     // Staging environment settings
