@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+# load .env variables
+set -o allexport
+source ./.env
+set +o allexport
+
+echo 'Backup database'
+eval mysqldump -h $DB_SERVER -u $DB_USER -p$DB_PASSWORD $DB_DATABASE > dbbackup.sql
+
+echo 'Push to remote server'
+eval mysql -h $REMOTE_DB_SERVER -u $REMOTE_DB_USER -p$REMOTE_DB_PASSWORD --database=$REMOTE_DB_DATABASE < dbbackup.sql
+
+echo 'Delete database backup'
+eval rm dbbackup.sql
+
+## Change text color to green, display 'done' and reset text color again
+echo -e "\x1B[0;32mDone\033[0m"
