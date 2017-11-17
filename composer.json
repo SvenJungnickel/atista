@@ -26,7 +26,8 @@
     "roave/security-advisories": "dev-master",
     "ext-mbstring": "*",
     "ext-imagick": "*",
-    "ext-mcrypt": "*"
+    "ext-mcrypt": "*",
+    "verbb/expanded-singles": "^1.0"
   },
   "config": {
     "optimize-autoloader": true
