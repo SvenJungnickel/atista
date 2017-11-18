@@ -33,6 +33,8 @@ return [
         // Dev Mode (see https://craftcms.com/support/dev-mode)
         'devMode' => true,
 
+        // Stay logged in
+        'userSessionDuration' => 'P1Y',
         'rememberedUserSessionDuration' => 'P1Y',
     ],
 
