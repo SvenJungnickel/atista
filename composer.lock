@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "3b445e0d0c1a6206590b57342a50fd7e",
+    "content-hash": "7e3adadeeea35ee08fbe57e0af2a993d",
     "packages": [
         {
             "name": "cebe/markdown",
@@ -2022,59 +2022,6 @@
                 "templating"
             ],
             "time": "2017-04-21T00:13:02+00:00"
-        },
-        {
-            "name": "verbb/expanded-singles",
-            "version": "1.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/verbb/expanded-singles.git",
-                "reference": "40f52e48c16823bad4e51a1d4213a8f4b7ca6afc"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/verbb/expanded-singles/zipball/40f52e48c16823bad4e51a1d4213a8f4b7ca6afc",
-                "reference": "40f52e48c16823bad4e51a1d4213a8f4b7ca6afc",
-                "shasum": ""
-            },
-            "require": {
-                "craftcms/cms": "~3.0.0-beta.23"
-            },
-            "type": "craft-plugin",
-            "extra": {
-                "name": "Expanded Singles",
-                "handle": "expanded-singles",
-                "description": "Alters the Entries Index sidebar to list all Singles, rather than grouping them under a 'Singles' link.",
-                "schemaVersion": "1.0.0",
-                "hasCpSettings": true,
-                "hasCpSection": false,
-                "changelogUrl": "https://raw.githubusercontent.com/verbb/expanded-singles/master/CHANGELOG.md",
-                "class": "verbb\\expandedsingles\\ExpandedSingles"
-            },
-            "autoload": {
-                "psr-4": {
-                    "verbb\\expandedsingles\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Verbb",
-                    "homepage": "https://verbb.io"
-                }
-            ],
-            "description": "A simple plugin for Craft CMS that alters the Entries Index sidebar to list all Singles, rather than grouping them under a 'Singles' link.",
-            "keywords": [
-                "Craft",
-                "cms",
-                "craft-plugin",
-                "craftcms",
-                "expanded singles"
-            ],
-            "time": "2017-10-17T21:17:18+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
