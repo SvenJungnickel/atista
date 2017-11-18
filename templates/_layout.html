@@ -78,8 +78,8 @@
             {% if header.headerSubtitle %}
                 <div class="intro-lead-in">{{ header.headerSubtitle }}</div>
             {% endif %}
-            {% if header.headerButton and header.headerButton is iterable %}
-                {% for button in header.headerButton %}
+            {% if header.headerButtons and header.headerButtons is iterable %}
+                {% for button in header.headerButtons %}
                     <a class="intro-button btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ button.buttonLink }}">
                         {{ button.buttonTitle }}
                     </a>
