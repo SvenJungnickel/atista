@@ -5,12 +5,12 @@
     {% for item in craft.entries.section('index').all() %}
         <section id="{{ item.slug }}"{% if loop.index % 2 == 0 %} class="bg-light"{% endif %}>
             <div class="container">
-                {% include item.template %}
+                {% include 'pages/' ~ item.type %}
             </div>
         </section>
     {% endfor %}
 
-    {% include 'pages/_clients.html' %}
+    {% include 'pages/clients.html' %}
 
 {% endblock %}
 

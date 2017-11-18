@@ -6,8 +6,8 @@
 </div>
 
 <div class="row">
-    {% for matrixBlock in item.contentMatrix.all() %}
-        <div class="col-sm-{{ 12 / item.contentMatrix.count() }}">
+    {% for matrixBlock in item.team.all() %}
+        <div class="col-sm-{{ 12 / item.team.count() }}">
             <div class="team-member">
                 <img class="mx-auto rounded-circle" src="{{ matrixBlock.teamProfilePicture }}" alt="{{ matrixBlock.teamName }}">
                 <h4>{{ matrixBlock.teamName }}</h4>
