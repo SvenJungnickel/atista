@@ -2,7 +2,12 @@
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url('../img/header-bg.jpg');
+  //text-shadow:
+  //  -1px -1px 0 #000,
+  //  1px -1px 0 #000,
+  //  -1px 1px 0 #000,
+  //  1px 1px 0 #000;
+
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -23,6 +28,9 @@ header.masthead {
       line-height: 50px;
       margin-bottom: 25px;
       @include heading-font;
+    }
+    .intro-button {
+      text-shadow: none;
     }
   }
 }
