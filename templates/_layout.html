@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="{{ meta.metaDescription }}">
     <meta name="author" content="{{ meta.metaAuthor }}">
-    <link rel="icon" type="image/png" href="{{ meta.metaFavicon.one().getUrl() }}" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{ meta.metaFavicon.one().favicon.getUrl() }}" sizes="32x32">
 
     <title>{{ meta.metaTitle }}</title>
 
@@ -33,7 +33,7 @@
     <div class="container">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
             {% if meta.metaLogo.one() %}
-                <img src="{{ meta.metaLogo.one().getUrl() }}"/>
+                <img src="{{ meta.metaLogo.one().logo.getUrl() }}"/>
             {% else %}
                 {{ meta.metaTitle }}
             {% endif %}
@@ -64,7 +64,7 @@
 </nav>
 
 <!-- Header -->
-<header class="masthead" style="background-image: url({{ header.headerBackground.one().getUrl() }});">
+<header class="masthead" style="background-image: url({{ header.headerBackground.one().header.getUrl() }});">
     <div class="container">
         <div class="intro-text">
             {% if header.headerTagline %}

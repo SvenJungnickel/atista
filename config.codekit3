@@ -43384,6 +43384,17 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/web\/cpresources\/22d20673\/e7dec937\/thumb-60x60.png": {
+		"ft": 32768,
+		"iS": 1879,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/22d20673\/e7dec937\/thumb-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/web\/cpresources\/2369d6d4\/118bb74b\/RichTextInput.js": {
 		"ft": 64,
 		"ma": 0,
@@ -44210,6 +44221,28 @@
 		"oAP": "\/web\/cpresources\/4f616bad\/118bb74b\/jquery.js.map",
 		"oF": 0
 		},
+	"\/web\/cpresources\/55d536e5\/855ffe8b\/thumb-200x200.png": {
+		"ft": 32768,
+		"iS": 3324,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/55d536e5\/855ffe8b\/thumb-200x200.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/web\/cpresources\/55d536e5\/855ffe8b\/thumb-60x60.png": {
+		"ft": 32768,
+		"iS": 1013,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/55d536e5\/855ffe8b\/thumb-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/web\/cpresources\/56fa7558\/118bb74b\/images\/crop.jpg": {
 		"ft": 16384,
 		"iS": 6619,
@@ -44426,21 +44459,21 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/web\/cpresources\/6afe54ad\/ba0cc04d\/thumb-200x200.jpg": {
+	"\/web\/cpresources\/6afe54ad\/adf67926\/thumb-200x200.jpg": {
 		"ft": 16384,
-		"iS": 6588,
+		"iS": 9044,
 		"oA": 0,
-		"oAP": "\/web\/cpresources\/6afe54ad\/ba0cc04d\/thumb-200x200.jpg",
+		"oAP": "\/web\/cpresources\/6afe54ad\/adf67926\/thumb-200x200.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/web\/cpresources\/6afe54ad\/ba0cc04d\/thumb-60x60.jpg": {
+	"\/web\/cpresources\/6afe54ad\/adf67926\/thumb-60x60.jpg": {
 		"ft": 16384,
 		"iS": 4207,
 		"oA": 0,
-		"oAP": "\/web\/cpresources\/6afe54ad\/ba0cc04d\/thumb-60x60.jpg",
+		"oAP": "\/web\/cpresources\/6afe54ad\/adf67926\/thumb-60x60.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -46167,22 +46200,22 @@
 		"oAP": "\/web\/cpresources\/d8b0d467\/118bb74b\/fabric.js.map",
 		"oF": 0
 		},
-	"\/web\/cpresources\/df7abaa1\/a1d02d83\/thumb-200x200.png": {
+	"\/web\/cpresources\/df7abaa1\/8800a2d7\/thumb-200x200.png": {
 		"ft": 32768,
-		"iS": 14949,
+		"iS": 1373,
 		"oA": 0,
-		"oAP": "\/web\/cpresources\/df7abaa1\/a1d02d83\/thumb-200x200.png",
+		"oAP": "\/web\/cpresources\/df7abaa1\/8800a2d7\/thumb-200x200.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/web\/cpresources\/df7abaa1\/a1d02d83\/thumb-60x60.png": {
+	"\/web\/cpresources\/df7abaa1\/8800a2d7\/thumb-60x60.png": {
 		"ft": 32768,
-		"iS": 3152,
+		"iS": 683,
 		"oA": 0,
-		"oAP": "\/web\/cpresources\/df7abaa1\/a1d02d83\/thumb-60x60.png",
+		"oAP": "\/web\/cpresources\/df7abaa1\/8800a2d7\/thumb-60x60.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -46434,7 +46467,7 @@
 		},
 	"\/web\/images\/_favicon\/atista-favicon.png": {
 		"ft": 32768,
-		"iS": 1014,
+		"iS": 462,
 		"oA": 0,
 		"oAP": "\/web\/images\/_favicon\/atista-favicon.png",
 		"oF": 0,
@@ -46459,8 +46492,8 @@
 		"oA": 0,
 		"oAP": "\/web\/images\/_logo\/atista-logo.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -46480,6 +46513,17 @@
 		"iS": 6027,
 		"oA": 0,
 		"oAP": "\/web\/images\/atista-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/web\/images\/atista-logo_171119_101231.png": {
+		"ft": 32768,
+		"iS": 18275,
+		"oA": 0,
+		"oAP": "\/web\/images\/atista-logo_171119_101231.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
