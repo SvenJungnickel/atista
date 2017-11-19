@@ -46996,13 +46996,6 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/web\/uploads\/images\/_favicon\/.gitkeep": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/web\/uploads\/images\/_favicon\/.gitkeep",
-		"oF": 0
-		},
 	"\/web\/uploads\/images\/_favicon\/atista-favicon.png": {
 		"ft": 32768,
 		"iS": 462,
@@ -47014,13 +47007,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/web\/uploads\/images\/_header\/.gitkeep": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/web\/uploads\/images\/_header\/.gitkeep",
-		"oF": 0
-		},
 	"\/web\/uploads\/images\/_header\/header-bg.jpg": {
 		"ft": 16384,
 		"iS": 475845,
@@ -47030,13 +47016,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
-		},
-	"\/web\/uploads\/images\/_logo\/.gitkeep": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/web\/uploads\/images\/_logo\/.gitkeep",
-		"oF": 0
 		},
 	"\/web\/uploads\/images\/_logo\/atista-logo.png": {
 		"ft": 32768,
@@ -47081,13 +47060,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/web\/uploads\/portfolio\/_projectLarge\/.gitkeep": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/web\/uploads\/portfolio\/_projectLarge\/.gitkeep",
-		"oF": 0
-		},
 	"\/web\/uploads\/portfolio\/_projectLarge\/el-galerie.png": {
 		"ft": 32768,
 		"iS": 688120,
@@ -47119,13 +47091,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
-		},
-	"\/web\/uploads\/portfolio\/_projectThumbnail\/.gitkeep": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/web\/uploads\/portfolio\/_projectThumbnail\/.gitkeep",
-		"oF": 0
 		},
 	"\/web\/uploads\/portfolio\/_projectThumbnail\/el-galerie.png": {
 		"ft": 32768,
@@ -47190,13 +47155,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
-		},
-	"\/web\/uploads\/team\/_profilePicture\/.gitkeep": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/web\/uploads\/team\/_profilePicture\/.gitkeep",
-		"oF": 0
 		},
 	"\/web\/uploads\/team\/_profilePicture\/andreas-muchowitsch.jpg": {
 		"ft": 16384,
