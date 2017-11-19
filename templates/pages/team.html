@@ -9,7 +9,7 @@
     {% for matrixBlock in item.team.all() %}
         <div class="col-sm-{{ 12 / item.team.count() }}">
             <div class="team-member">
-                <img class="mx-auto rounded-circle" src="{{ matrixBlock.teamProfilePicture }}" alt="{{ matrixBlock.teamName }}">
+                <img class="mx-auto rounded-circle" src="{{ matrixBlock.teamProfilePicture.one().profilePicture.url() }}" alt="{{ matrixBlock.teamName }}">
                 <h4>{{ matrixBlock.teamName }}</h4>
                 <p class="text-muted">{{ matrixBlock.teamPosition }}</p>
 
