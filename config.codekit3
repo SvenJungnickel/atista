@@ -43472,21 +43472,11 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/web\/cpresources\/25bfc26a\/78b0ef29\/thumb-200x200.jpg": {
+	"\/web\/cpresources\/25bfc26a\/60311c59\/thumb-200x200.jpg": {
 		"ft": 16384,
 		"iS": 5276,
 		"oA": 0,
-		"oAP": "\/web\/cpresources\/25bfc26a\/78b0ef29\/thumb-200x200.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/web\/cpresources\/25bfc26a\/78b0ef29\/thumb-60x60.jpg": {
-		"ft": 16384,
-		"iS": 1081,
-		"oA": 0,
-		"oAP": "\/web\/cpresources\/25bfc26a\/78b0ef29\/thumb-60x60.jpg",
+		"oAP": "\/web\/cpresources\/25bfc26a\/60311c59\/thumb-200x200.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -44273,19 +44263,11 @@
 		"oAP": "\/web\/cpresources\/4f616bad\/118bb74b\/jquery.js.map",
 		"oF": 0
 		},
-	"\/web\/cpresources\/52b8f2fc\/88c87b5d\/thumb-200x200.gif": {
+	"\/web\/cpresources\/52b8f2fc\/60311c59\/thumb-200x200.gif": {
 		"ft": 4194304,
 		"iS": 2345,
 		"oA": 0,
-		"oAP": "\/web\/cpresources\/52b8f2fc\/88c87b5d\/thumb-200x200.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/web\/cpresources\/52b8f2fc\/88c87b5d\/thumb-60x60.gif": {
-		"ft": 4194304,
-		"iS": 510,
-		"oA": 0,
-		"oAP": "\/web\/cpresources\/52b8f2fc\/88c87b5d\/thumb-60x60.gif",
+		"oAP": "\/web\/cpresources\/52b8f2fc\/60311c59\/thumb-200x200.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -45329,31 +45311,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/web\/cpresources\/ccdc675f\/54f078f3\/thumb-60x60.jpg": {
-		"ft": 16384,
-		"iS": 1507,
-		"oA": 0,
-		"oAP": "\/web\/cpresources\/ccdc675f\/54f078f3\/thumb-60x60.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/web\/cpresources\/ccdc675f\/8da1ba6\/thumb-200x200.jpg": {
+	"\/web\/cpresources\/ccdc675f\/60311c59\/thumb-200x200.jpg": {
 		"ft": 16384,
 		"iS": 7049,
 		"oA": 0,
-		"oAP": "\/web\/cpresources\/ccdc675f\/8da1ba6\/thumb-200x200.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/web\/cpresources\/ccdc675f\/8da1ba6\/thumb-60x60.jpg": {
-		"ft": 16384,
-		"iS": 1507,
-		"oA": 0,
-		"oAP": "\/web\/cpresources\/ccdc675f\/8da1ba6\/thumb-60x60.jpg",
+		"oAP": "\/web\/cpresources\/ccdc675f\/60311c59\/thumb-200x200.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -47034,6 +46996,13 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/web\/uploads\/images\/_favicon\/.gitkeep": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/uploads\/images\/_favicon\/.gitkeep",
+		"oF": 0
+		},
 	"\/web\/uploads\/images\/_favicon\/atista-favicon.png": {
 		"ft": 32768,
 		"iS": 462,
@@ -47045,6 +47014,13 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/web\/uploads\/images\/_header\/.gitkeep": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/uploads\/images\/_header\/.gitkeep",
+		"oF": 0
+		},
 	"\/web\/uploads\/images\/_header\/header-bg.jpg": {
 		"ft": 16384,
 		"iS": 475845,
@@ -47054,6 +47030,13 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/web\/uploads\/images\/_logo\/.gitkeep": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/uploads\/images\/_logo\/.gitkeep",
+		"oF": 0
 		},
 	"\/web\/uploads\/images\/_logo\/atista-logo.png": {
 		"ft": 32768,
@@ -47098,6 +47081,13 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/web\/uploads\/portfolio\/_projectLarge\/.gitkeep": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/uploads\/portfolio\/_projectLarge\/.gitkeep",
+		"oF": 0
+		},
 	"\/web\/uploads\/portfolio\/_projectLarge\/el-galerie.png": {
 		"ft": 32768,
 		"iS": 688120,
@@ -47129,6 +47119,13 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/web\/uploads\/portfolio\/_projectThumbnail\/.gitkeep": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/uploads\/portfolio\/_projectThumbnail\/.gitkeep",
+		"oF": 0
 		},
 	"\/web\/uploads\/portfolio\/_projectThumbnail\/el-galerie.png": {
 		"ft": 32768,
@@ -47193,6 +47190,13 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/web\/uploads\/team\/_profilePicture\/.gitkeep": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/uploads\/team\/_profilePicture\/.gitkeep",
+		"oF": 0
 		},
 	"\/web\/uploads\/team\/_profilePicture\/andreas-muchowitsch.jpg": {
 		"ft": 16384,
