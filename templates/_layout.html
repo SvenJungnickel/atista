@@ -98,26 +98,18 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <span class="copyright">Copyright &copy; Atista UG 2017</span>
+                <span class="copyright">{{ footer.copyright }}</span>
             </div>
             <div class="col-md-4">
-                {#<ul class="list-inline social-buttons">#}
-                    {#<li class="list-inline-item">#}
-                        {#<a href="#">#}
-                            {#<i class="fa fa-twitter"></i>#}
-                        {#</a>#}
-                    {#</li>#}
-                    {#<li class="list-inline-item">#}
-                        {#<a href="#">#}
-                            {#<i class="fa fa-facebook"></i>#}
-                        {#</a>#}
-                    {#</li>#}
-                    {#<li class="list-inline-item">#}
-                        {#<a href="#">#}
-                            {#<i class="fa fa-linkedin"></i>#}
-                        {#</a>#}
-                    {#</li>#}
-                {#</ul>#}
+                <ul class="list-inline social-buttons">
+                    {% for socialMedia in footer.socialMedia.all() %}
+                        <li class="list-inline-item">
+                            <a href="{{ socialMedia.socialMediaUrl }}" target="_blank">
+                                <i class="fa fa-{{ socialMedia.type.handle }}"></i>
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
             </div>
             <div class="col-md-4">
                 <ul class="list-inline quicklinks">
