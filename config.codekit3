@@ -43472,6 +43472,26 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"\/web\/cpresources\/25bfc26a\/78b0ef29\/thumb-200x200.jpg": {
+		"ft": 16384,
+		"iS": 5276,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/25bfc26a\/78b0ef29\/thumb-200x200.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/web\/cpresources\/25bfc26a\/78b0ef29\/thumb-60x60.jpg": {
+		"ft": 16384,
+		"iS": 1081,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/25bfc26a\/78b0ef29\/thumb-60x60.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/web\/cpresources\/2614ac43\/118bb74b\/TableFieldSettings.js": {
 		"ft": 64,
 		"ma": 0,
@@ -43630,6 +43650,17 @@
 		"oAP": "\/web\/cpresources\/2957d37c\/118bb74b\/EntryTypeSwitcher.min.js.map",
 		"oF": 0
 		},
+	"\/web\/cpresources\/2c098e41\/c488a50a\/thumb-60x60.png": {
+		"ft": 32768,
+		"iS": 6495,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/2c098e41\/c488a50a\/thumb-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/web\/cpresources\/31b9f3e1\/7b5a6523\/thumb-200x200.jpg": {
 		"ft": 16384,
 		"iS": 9826,
@@ -43696,6 +43727,16 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/web\/cpresources\/3bc93732\/b38f959c\/thumb-60x60.jpg": {
+		"ft": 16384,
+		"iS": 4278,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/3bc93732\/b38f959c\/thumb-60x60.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/web\/cpresources\/3dc60686\/118bb74b\/lang\/ar.js": {
 		"ft": 64,
@@ -43971,22 +44012,22 @@
 		"oAP": "\/web\/cpresources\/3dc60686\/118bb74b\/redactor.min.js.map",
 		"oF": 0
 		},
-	"\/web\/cpresources\/4673eb1b\/129cb894\/thumb-200x200.png": {
+	"\/web\/cpresources\/4673eb1b\/83dcfedb\/thumb-200x200.png": {
 		"ft": 32768,
-		"iS": 7308,
+		"iS": 3301,
 		"oA": 0,
-		"oAP": "\/web\/cpresources\/4673eb1b\/129cb894\/thumb-200x200.png",
+		"oAP": "\/web\/cpresources\/4673eb1b\/83dcfedb\/thumb-200x200.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/web\/cpresources\/4673eb1b\/129cb894\/thumb-60x60.png": {
+	"\/web\/cpresources\/4673eb1b\/83dcfedb\/thumb-60x60.png": {
 		"ft": 32768,
-		"iS": 1879,
+		"iS": 981,
 		"oA": 0,
-		"oAP": "\/web\/cpresources\/4673eb1b\/129cb894\/thumb-60x60.png",
+		"oAP": "\/web\/cpresources\/4673eb1b\/83dcfedb\/thumb-60x60.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -44177,6 +44218,17 @@
 		"oAP": "\/web\/cpresources\/4b2fa86b\/118bb74b\/SlideRuleInput.min.js.map",
 		"oF": 0
 		},
+	"\/web\/cpresources\/4cce07a4\/c488a50a\/thumb-60x60.png": {
+		"ft": 32768,
+		"iS": 4378,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/4cce07a4\/c488a50a\/thumb-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/web\/cpresources\/4ea7d491\/118bb74b\/RecentEntriesWidget.js": {
 		"ft": 64,
 		"ma": 0,
@@ -44220,6 +44272,22 @@
 		"oA": 0,
 		"oAP": "\/web\/cpresources\/4f616bad\/118bb74b\/jquery.js.map",
 		"oF": 0
+		},
+	"\/web\/cpresources\/52b8f2fc\/88c87b5d\/thumb-200x200.gif": {
+		"ft": 4194304,
+		"iS": 2345,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/52b8f2fc\/88c87b5d\/thumb-200x200.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/web\/cpresources\/52b8f2fc\/88c87b5d\/thumb-60x60.gif": {
+		"ft": 4194304,
+		"iS": 510,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/52b8f2fc\/88c87b5d\/thumb-60x60.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/web\/cpresources\/55d536e5\/855ffe8b\/thumb-200x200.png": {
 		"ft": 32768,
@@ -44332,6 +44400,16 @@
 		"oF": 0,
 		"oS": 3,
 		"uL": 0
+		},
+	"\/web\/cpresources\/5b0ebed7\/4e0db90f\/thumb-60x60.jpg": {
+		"ft": 16384,
+		"iS": 1081,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/5b0ebed7\/4e0db90f\/thumb-60x60.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/web\/cpresources\/5cefe18b\/118bb74b\/DbBackupUtility.js": {
 		"ft": 64,
@@ -44459,21 +44537,21 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/web\/cpresources\/6afe54ad\/adf67926\/thumb-200x200.jpg": {
+	"\/web\/cpresources\/6afe54ad\/1ad5af61\/thumb-200x200.jpg": {
 		"ft": 16384,
 		"iS": 9044,
 		"oA": 0,
-		"oAP": "\/web\/cpresources\/6afe54ad\/adf67926\/thumb-200x200.jpg",
+		"oAP": "\/web\/cpresources\/6afe54ad\/1ad5af61\/thumb-200x200.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/web\/cpresources\/6afe54ad\/adf67926\/thumb-60x60.jpg": {
+	"\/web\/cpresources\/6afe54ad\/1ad5af61\/thumb-60x60.jpg": {
 		"ft": 16384,
 		"iS": 4207,
 		"oA": 0,
-		"oAP": "\/web\/cpresources\/6afe54ad\/adf67926\/thumb-60x60.jpg",
+		"oAP": "\/web\/cpresources\/6afe54ad\/1ad5af61\/thumb-60x60.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -45123,6 +45201,16 @@
 		"oAP": "\/web\/cpresources\/b988949d\/118bb74b\/jquery.pjax.js.map",
 		"oF": 0
 		},
+	"\/web\/cpresources\/bcb693d0\/4e0db90f\/thumb-60x60.jpg": {
+		"ft": 16384,
+		"iS": 1507,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/bcb693d0\/4e0db90f\/thumb-60x60.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/web\/cpresources\/c0f51641\/118bb74b\/velocity.js": {
 		"ft": 64,
 		"ma": 0,
@@ -45232,6 +45320,44 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/web\/cpresources\/cbb1a346\/4e0db90f\/thumb-60x60.gif": {
+		"ft": 4194304,
+		"iS": 510,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/cbb1a346\/4e0db90f\/thumb-60x60.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/web\/cpresources\/ccdc675f\/54f078f3\/thumb-60x60.jpg": {
+		"ft": 16384,
+		"iS": 1507,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/ccdc675f\/54f078f3\/thumb-60x60.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/web\/cpresources\/ccdc675f\/8da1ba6\/thumb-200x200.jpg": {
+		"ft": 16384,
+		"iS": 7049,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/ccdc675f\/8da1ba6\/thumb-200x200.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/web\/cpresources\/ccdc675f\/8da1ba6\/thumb-60x60.jpg": {
+		"ft": 16384,
+		"iS": 1507,
+		"oA": 0,
+		"oAP": "\/web\/cpresources\/ccdc675f\/8da1ba6\/thumb-60x60.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/web\/cpresources\/cdda8ce2\/118bb74b\/css\/_cp.scss": {
 		"aP": 0,
@@ -46200,22 +46326,11 @@
 		"oAP": "\/web\/cpresources\/d8b0d467\/118bb74b\/fabric.js.map",
 		"oF": 0
 		},
-	"\/web\/cpresources\/df7abaa1\/8800a2d7\/thumb-200x200.png": {
+	"\/web\/cpresources\/df7abaa1\/52f9fdbf\/thumb-200x200.png": {
 		"ft": 32768,
 		"iS": 1373,
 		"oA": 0,
-		"oAP": "\/web\/cpresources\/df7abaa1\/8800a2d7\/thumb-200x200.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/web\/cpresources\/df7abaa1\/8800a2d7\/thumb-60x60.png": {
-		"ft": 32768,
-		"iS": 683,
-		"oA": 0,
-		"oAP": "\/web\/cpresources\/df7abaa1\/8800a2d7\/thumb-60x60.png",
+		"oAP": "\/web\/cpresources\/df7abaa1\/52f9fdbf\/thumb-200x200.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -46464,177 +46579,6 @@
 		"oAP": "\/web\/css\/agency-min.css",
 		"oF": 0,
 		"oS": 3
-		},
-	"\/web\/images\/_favicon\/atista-favicon.png": {
-		"ft": 32768,
-		"iS": 462,
-		"oA": 0,
-		"oAP": "\/web\/images\/_favicon\/atista-favicon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/web\/images\/_header\/header-bg.jpg": {
-		"ft": 16384,
-		"iS": 475845,
-		"oA": 0,
-		"oAP": "\/web\/images\/_header\/header-bg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/web\/images\/_logo\/atista-logo.png": {
-		"ft": 32768,
-		"iS": 7121,
-		"oA": 0,
-		"oAP": "\/web\/images\/_logo\/atista-logo.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/web\/images\/atista-favicon.png": {
-		"ft": 32768,
-		"iS": 1970,
-		"oA": 0,
-		"oAP": "\/web\/images\/atista-favicon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/web\/images\/atista-logo.png": {
-		"ft": 32768,
-		"iS": 6027,
-		"oA": 0,
-		"oAP": "\/web\/images\/atista-logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/web\/images\/atista-logo_171119_101231.png": {
-		"ft": 32768,
-		"iS": 18275,
-		"oA": 0,
-		"oAP": "\/web\/images\/atista-logo_171119_101231.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/web\/images\/header-bg.jpg": {
-		"ft": 16384,
-		"iS": 1862051,
-		"oA": 0,
-		"oAP": "\/web\/images\/header-bg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/web\/images\/portfolio\/_large\/el-galerie.png": {
-		"ft": 32768,
-		"iS": 688120,
-		"oA": 0,
-		"oAP": "\/web\/images\/portfolio\/_large\/el-galerie.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/web\/images\/portfolio\/_large\/emden-fusspflege.png": {
-		"ft": 32768,
-		"iS": 279081,
-		"oA": 0,
-		"oAP": "\/web\/images\/portfolio\/_large\/emden-fusspflege.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/web\/images\/portfolio\/_large\/hector-martinez-110928.jpg": {
-		"ft": 16384,
-		"iS": 238356,
-		"oA": 0,
-		"oAP": "\/web\/images\/portfolio\/_large\/hector-martinez-110928.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/web\/images\/portfolio\/_thumbnail\/el-galerie.png": {
-		"ft": 32768,
-		"iS": 254481,
-		"oA": 0,
-		"oAP": "\/web\/images\/portfolio\/_thumbnail\/el-galerie.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/web\/images\/portfolio\/_thumbnail\/emden-fusspflege.png": {
-		"ft": 32768,
-		"iS": 135940,
-		"oA": 0,
-		"oAP": "\/web\/images\/portfolio\/_thumbnail\/emden-fusspflege.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/web\/images\/portfolio\/_thumbnail\/hector-martinez-110928.jpg": {
-		"ft": 16384,
-		"iS": 22340,
-		"oA": 0,
-		"oAP": "\/web\/images\/portfolio\/_thumbnail\/hector-martinez-110928.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/web\/images\/portfolio\/el-galerie.png": {
-		"ft": 32768,
-		"iS": 1408627,
-		"oA": 0,
-		"oAP": "\/web\/images\/portfolio\/el-galerie.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/web\/images\/portfolio\/emden-fusspflege.png": {
-		"ft": 32768,
-		"iS": 921521,
-		"oA": 0,
-		"oAP": "\/web\/images\/portfolio\/emden-fusspflege.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/web\/images\/portfolio\/hector-martinez-110928.jpg": {
-		"ft": 16384,
-		"iS": 4543188,
-		"oA": 0,
-		"oAP": "\/web\/images\/portfolio\/hector-martinez-110928.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/web\/img\/about\/1.jpg": {
 		"ft": 16384,
@@ -47089,6 +47033,222 @@
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
+		},
+	"\/web\/uploads\/images\/_favicon\/atista-favicon.png": {
+		"ft": 32768,
+		"iS": 462,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/images\/_favicon\/atista-favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/web\/uploads\/images\/_header\/header-bg.jpg": {
+		"ft": 16384,
+		"iS": 475845,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/images\/_header\/header-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/web\/uploads\/images\/_logo\/atista-logo.png": {
+		"ft": 32768,
+		"iS": 3321,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/images\/_logo\/atista-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/web\/uploads\/images\/atista-favicon.png": {
+		"ft": 32768,
+		"iS": 1970,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/images\/atista-favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/web\/uploads\/images\/atista-logo.png": {
+		"ft": 32768,
+		"iS": 6027,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/images\/atista-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/web\/uploads\/images\/header-bg.jpg": {
+		"ft": 16384,
+		"iS": 1862051,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/images\/header-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/web\/uploads\/portfolio\/_projectLarge\/el-galerie.png": {
+		"ft": 32768,
+		"iS": 688120,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/portfolio\/_projectLarge\/el-galerie.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/web\/uploads\/portfolio\/_projectLarge\/emden-fusspflege.png": {
+		"ft": 32768,
+		"iS": 279081,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/portfolio\/_projectLarge\/emden-fusspflege.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/web\/uploads\/portfolio\/_projectLarge\/hector-martinez-110928.jpg": {
+		"ft": 16384,
+		"iS": 238356,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/portfolio\/_projectLarge\/hector-martinez-110928.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/web\/uploads\/portfolio\/_projectThumbnail\/el-galerie.png": {
+		"ft": 32768,
+		"iS": 254481,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/portfolio\/_projectThumbnail\/el-galerie.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/web\/uploads\/portfolio\/_projectThumbnail\/emden-fusspflege.png": {
+		"ft": 32768,
+		"iS": 135940,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/portfolio\/_projectThumbnail\/emden-fusspflege.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/web\/uploads\/portfolio\/_projectThumbnail\/hector-martinez-110928.jpg": {
+		"ft": 16384,
+		"iS": 22340,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/portfolio\/_projectThumbnail\/hector-martinez-110928.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/web\/uploads\/portfolio\/el-galerie.png": {
+		"ft": 32768,
+		"iS": 1408627,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/portfolio\/el-galerie.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/web\/uploads\/portfolio\/emden-fusspflege.png": {
+		"ft": 32768,
+		"iS": 921521,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/portfolio\/emden-fusspflege.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/web\/uploads\/portfolio\/hector-martinez-110928.jpg": {
+		"ft": 16384,
+		"iS": 4543188,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/portfolio\/hector-martinez-110928.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/web\/uploads\/team\/_profilePicture\/andreas-muchowitsch.jpg": {
+		"ft": 16384,
+		"iS": 7809,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/team\/_profilePicture\/andreas-muchowitsch.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/web\/uploads\/team\/_profilePicture\/erika-mustermann.gif": {
+		"ft": 4194304,
+		"iS": 2437,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/team\/_profilePicture\/erika-mustermann.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/web\/uploads\/team\/_profilePicture\/sven-jungnickel.jpg": {
+		"ft": 16384,
+		"iS": 5863,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/team\/_profilePicture\/sven-jungnickel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/web\/uploads\/team\/andreas-muchowitsch.jpg": {
+		"ft": 16384,
+		"iS": 34498,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/team\/andreas-muchowitsch.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/web\/uploads\/team\/erika-mustermann.gif": {
+		"ft": 4194304,
+		"iS": 12565,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/team\/erika-mustermann.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/web\/uploads\/team\/sven-jungnickel.jpg": {
+		"ft": 16384,
+		"iS": 8330,
+		"oA": 0,
+		"oAP": "\/web\/uploads\/team\/sven-jungnickel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/web\/vendor\/bootstrap\/css\/bootstrap-grid.css": {
 		"aP": 1,

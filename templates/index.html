@@ -37,7 +37,7 @@
                                     <h2 class="text-uppercase">{{ matrixBlock.portfolioProjectName }}</h2>
                                     <p class="item-intro text-muted">{{ matrixBlock.portfolioProjectSubtitle }}</p>
                                     <img class="img-fluid d-block mx-auto"
-                                         src="{{ matrixBlock.portfolioImage.one().large.url() }}"
+                                         src="{{ matrixBlock.portfolioImage.one().projectLarge.url() }}"
                                          alt="{{ matrixBlock.portfolioProjectName }}">
                                     <p>{{ matrixBlock.portfolioDescription }}</p>
                                     <ul class="list-inline">
@@ -47,7 +47,7 @@
                                     </ul>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fa fa-times"></i>
-                                        Close Project
+                                        {{ "Projekt schließen" | t }}
                                     </button>
                                 </div>
                             </div>
