@@ -25,8 +25,8 @@
     "vlucas/phpdotenv": "^2.4.0",
     "roave/security-advisories": "dev-master",
     "ext-mbstring": "*",
-    "ext-imagick": "*",
-    "ext-mcrypt": "*"
+    "ext-mcrypt": "*",
+    "craftcms/contact-form": "^2.1"
   },
   "config": {
     "optimize-autoloader": true
