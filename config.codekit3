@@ -2338,7 +2338,7 @@
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, storage, node_modules, .idea, templates, \/templates, .env, config, \/web\/img, \/web\/cpresources, \/config, \/vendor, \/web\/vendor, \/.idea, \/web\/css, \/web\/uploads, \/storage, \/web\/js",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, storage, node_modules, .idea, templates, \/templates, .env, config, \/web\/img, \/web\/cpresources, \/config, \/vendor, \/web\/vendor, \/.idea, \/web\/css, \/web\/uploads, \/storage, \/web\/js, composer.json, composer.lock, Procfile",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",
