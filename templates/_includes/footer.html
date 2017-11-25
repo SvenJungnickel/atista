@@ -1,0 +1,29 @@
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <span class="copyright">{{ footer.copyright }}</span>
+            </div>
+            <div class="col-md-4">
+                <ul class="list-inline social-buttons">
+                    {% for socialMedia in footer.socialMedia.all() %}
+                        <li class="list-inline-item">
+                            <a href="{{ socialMedia.socialMediaUrl }}" target="_blank">
+                                <i class="fa fa-{{ socialMedia.type.handle }}"></i>
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <ul class="list-inline quicklinks">
+                    {% for item in craft.entries.section('pages').all() %}
+                        <li class="list-inline-item">
+                            <a href="{{ item.slug }}">{{ item.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>

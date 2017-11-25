@@ -1,0 +1,24 @@
+<header class="masthead" style="background-image: url({{ header.headerBackground.one().header.getUrl() }});">
+    <div class="container">
+        <div class="intro-text">
+            {% if header.headerTagline %}
+                <div class="intro-lead-in">{{ header.headerTagline }}</div>
+            {% endif %}
+            {% if header.headerTitle %}
+                <div class="intro-heading text-uppercase">
+                    {{ header.headerTitle }}
+                </div>
+            {% endif %}
+            {% if header.headerSubtitle %}
+                <div class="intro-lead-in">{{ header.headerSubtitle }}</div>
+            {% endif %}
+            {% if header.headerButtons and header.headerButtons is iterable %}
+                {% for button in header.headerButtons %}
+                    <a class="intro-button btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ button.buttonLink }}">
+                        {{ button.buttonTitle }}
+                    </a>
+                {% endfor %}
+            {% endif %}
+        </div>
+    </div>
+</header>

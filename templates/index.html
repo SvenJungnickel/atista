@@ -10,11 +10,10 @@
         </section>
     {% endfor %}
 
-    {#{% include 'pages/clients.html' %}#}
-
 {% endblock %}
 
 {% block modal %}
+
     <!-- Portfolio Modals -->
     {% for matrixBlock in craft.entries.section('index').slug('portfolio').one().portfolios.all() %}
         <div class="portfolio-modal modal fade"
@@ -57,4 +56,5 @@
             </div>
         </div>
     {% endfor %}
+
 {% endblock %}

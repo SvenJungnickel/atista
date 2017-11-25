@@ -28,115 +28,38 @@
 
 <body id="page-top">
 
-<!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-    <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">
-            {% if meta.metaLogo.one() %}
-                <img src="{{ meta.metaLogo.one().logo.getUrl() }}"/>
-            {% else %}
-                {{ meta.metaTitle }}
-            {% endif %}
-        </a>
-        <button class="navbar-toggler navbar-toggler-right"
-                type="button"
-                data-toggle="collapse"
-                data-target="#navbarResponsive"
-                aria-controls="navbarResponsive"
-                aria-expanded="false"
-                aria-label="Toggle navigation">
-            <i class="fa fa-bars"></i>
-        </button>
+    {% set isPage = craft.request.getFirstSegment() ? true : false%}
 
-        {# Navigation #}
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-            <ul class="navbar-nav text-uppercase ml-auto">
-                {% for item in craft.entries.section('index').all() %}
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#{{ item.slug }}">
-                            {{ item.title }}
-                        </a>
-                    </li>
-                {% endfor %}
-            </ul>
-        </div>
-    </div>
-</nav>
+    <!-- Navigation -->
+    {% include '_includes/navigation.html' with { 'isPage': isPage } %}
 
-<!-- Header -->
-<header class="masthead" style="background-image: url({{ header.headerBackground.one().header.getUrl() }});">
-    <div class="container">
-        <div class="intro-text">
-            {% if header.headerTagline %}
-                <div class="intro-lead-in">{{ header.headerTagline }}</div>
-            {% endif %}
-            {% if header.headerTitle %}
-                <div class="intro-heading text-uppercase">
-                    {{ header.headerTitle }}
-                </div>
-            {% endif %}
-            {% if header.headerSubtitle %}
-                <div class="intro-lead-in">{{ header.headerSubtitle }}</div>
-            {% endif %}
-            {% if header.headerButtons and header.headerButtons is iterable %}
-                {% for button in header.headerButtons %}
-                    <a class="intro-button btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ button.buttonLink }}">
-                        {{ button.buttonTitle }}
-                    </a>
-                {% endfor %}
-            {% endif %}
-        </div>
-    </div>
-</header>
+    <!-- Header -->
+    {% if isPage == false %}
+        {% include '_includes/header.html' %}
+    {% endif %}
 
-{% block content %}{% endblock %}
+    <!-- Content block -->
+    {% block content %}{% endblock %}
 
-{% block modal %}{% endblock %}
+    <!-- Modal block -->
+    {% block modal %}{% endblock %}
 
-<!-- Footer -->
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-4">
-                <span class="copyright">{{ footer.copyright }}</span>
-            </div>
-            <div class="col-md-4">
-                <ul class="list-inline social-buttons">
-                    {% for socialMedia in footer.socialMedia.all() %}
-                        <li class="list-inline-item">
-                            <a href="{{ socialMedia.socialMediaUrl }}" target="_blank">
-                                <i class="fa fa-{{ socialMedia.type.handle }}"></i>
-                            </a>
-                        </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            <div class="col-md-4">
-                <ul class="list-inline quicklinks">
-                    {% for item in craft.entries.section('footer').all() %}
-                        <li class="list-inline-item">
-                            <a href="{{ item.slug }}">{{ item.title }}</a>
-                        </li>
-                    {% endfor %}
-                </ul>
-            </div>
-        </div>
-    </div>
-</footer>
+    <!-- Footer -->
+    {% include '_includes/footer.html' %}
 
-<!-- Bootstrap core JavaScript -->
-<script src="vendor/jquery/jquery.min.js"></script>
-<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-<!-- Plugin JavaScript -->
-<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
 
-<!-- Contact form JavaScript -->
-<script src="js/jqBootstrapValidation.js"></script>
-<script src="js/contact_me.js"></script>
+    <!-- Contact form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
 
-<!-- Custom scripts for this template -->
-<script src="js/agency.min.js"></script>
+    <!-- Custom scripts for this template -->
+    <script src="js/agency.min.js"></script>
 
 </body>
 
