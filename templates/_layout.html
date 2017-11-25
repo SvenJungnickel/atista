@@ -28,7 +28,7 @@
 
 <body id="page-top">
 
-    {% set isPage = craft.request.getFirstSegment() ? true : false%}
+    {% set isPage = craft.app.request.segments|first ? true : false %}
 
     <!-- Navigation -->
     {% include '_includes/navigation.html' with { 'isPage': isPage } %}
