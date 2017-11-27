@@ -28,7 +28,9 @@
     "ext-imagick": "*",
     "ext-mcrypt": "*",
     "craftcms/contact-form": "^2.1",
-    "svenjungnickel/redactor-font-awesome": "^2.0.1"
+    "svenjungnickel/redactor-font-awesome": "^2.0.1",
+    "nystudio107/craft3-instantanalytics": "^1.0",
+    "craftcms/redactor": "^1.0@beta"
   },
   "config": {
     "optimize-autoloader": true
