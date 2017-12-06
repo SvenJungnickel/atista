@@ -21,14 +21,14 @@
   "minimum-stability": "beta",
   "require": {
     "php": ">=7.0.0",
-    "craftcms/cms": "dev-release/3.0.0-RC1 as 3.0.0-RC1",
+    "craftcms/cms": "3.0.0-RC1",
     "vlucas/phpdotenv": "^2.4.0",
     "roave/security-advisories": "dev-master",
     "ext-mbstring": "*",
     "ext-imagick": "*",
     "ext-mcrypt": "*",
     "craftcms/contact-form": "^2.1",
-    "svenjungnickel/redactor-font-awesome": "^2.0.1",
+    "svenjungnickel/redactor-font-awesome": "^2.0.4",
     "nystudio107/craft3-instantanalytics": "^1.0",
     "craftcms/redactor": "^1.0@beta"
   },
