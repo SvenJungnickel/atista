@@ -17,7 +17,7 @@
             </div>
             <div class="col-md-4">
                 <ul class="list-inline quicklinks">
-                    {% for item in craft.entries.section('pages').all() %}
+                    {% for item in craft.entries.section('footer').all() %}
                         <li class="list-inline-item">
                             <a href="{{ item.slug }}">{{ item.title }}</a>
                         </li>
