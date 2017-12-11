@@ -7,11 +7,17 @@
 
 <div class="row text-center">
     {% for matrixBlock in item.services.all() %}
-        <div class="col-md-4">
+        <div class="col-md-{{ 12 / item.services.count() }}">
+            {% if matrixBlock.serviceEntry.one() %}
+                <a href={{ matrixBlock.serviceEntry.one().getUrl() }}>
+            {% endif %}
             <span class="fa-stack fa-4x">
                 <i class="fa fa-circle fa-stack-2x text-primary"></i>
                 <i class="fa {{ matrixBlock.serviceIcon }} fa-stack-1x fa-inverse"></i>
             </span>
+            {% if matrixBlock.serviceEntry.one() %}
+                </a>
+            {% endif %}
             <h4 class="service-heading">{{ matrixBlock.serviceTitle }}</h4>
             <p class="text-muted">{{ matrixBlock.serviceDescription }}</p>
         </div>
