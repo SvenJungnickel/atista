@@ -190,6 +190,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/web\/scss\/_entry.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/web\/css\/_entry.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 0
+		},
 	"\/web\/scss\/_footer.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -254,6 +267,19 @@
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
+		},
+	"\/web\/scss\/_page.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/web\/css\/_page.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 0
 		},
 	"\/web\/scss\/_portfolio.scss": {
 		"aP": 0,
