@@ -1,0 +1,11 @@
+// Styling for the entries
+.entry {
+  p.section-subheading {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 75px;
+    text-transform: none;
+    @include serif-font;
+  }
+}

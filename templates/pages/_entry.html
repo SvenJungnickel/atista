@@ -2,15 +2,15 @@
 
 {% block content %}
 
-<section class="bg-light">
-    <div class="container">
-        <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">{{ entry.title }}</h2>
-            <h3 class="section-subheading text-muted">{{ entry.subtitle }}</h3>
+    <section class="entry bg-light">
+        <div class="container">
+            <div class="col-lg-12 text-center">
+                <h1 class="section-heading text-uppercase">{{ entry.title }}</h1>
+                <p class="section-subheading text-muted">{{ entry.subtitle }}</p>
 
-            <p>{{ entry.text }}</p>
+                <p>{{ entry.text }}</p>
+            </div>
         </div>
-    </div>
-</section>
+    </section>
 
 {% endblock content %}
