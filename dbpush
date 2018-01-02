@@ -8,6 +8,9 @@ set +o allexport
 echo 'Backup database'
 eval mysqldump -h $DB_SERVER -u $DB_USER -p$DB_PASSWORD $DB_DATABASE > dbbackup.sql
 
+echo 'Replace URLs'
+eval replace $SEARCH $REPLACE -- dbbackup.sql
+
 echo 'Push to remote server'
 eval mysql -h $REMOTE_DB_SERVER -u $REMOTE_DB_USER -p$REMOTE_DB_PASSWORD --database=$REMOTE_DB_DATABASE < dbbackup.sql
 
