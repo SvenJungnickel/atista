@@ -21,16 +21,15 @@
   "minimum-stability": "beta",
   "require": {
     "php": ">=7.0.0",
-    "craftcms/cms": "3.0.0-RC3",
+    "craftcms/cms": "3.0.0-RC15",
     "vlucas/phpdotenv": "^2.4.0",
-    "roave/security-advisories": "dev-master",
     "ext-mbstring": "*",
     "ext-imagick": "*",
     "ext-mcrypt": "*",
     "craftcms/contact-form": "^2.1",
     "svenjungnickel/redactor-font-awesome": "^2.0.4",
-    "nystudio107/craft3-instantanalytics": "^1.0",
-    "craftcms/redactor": "^1.0@beta"
+    "nystudio107/craft-instantanalytics": "^1.1",
+    "craftcms/redactor": "^2.0"
   },
   "config": {
     "optimize-autoloader": true
